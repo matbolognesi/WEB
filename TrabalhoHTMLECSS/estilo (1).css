@@ -1,0 +1,155 @@
+.container{
+	width:960px;
+	margin:auto;
+	
+}
+#cabeçalho{
+	
+	
+	
+	
+}
+body{
+	background:#F0E68C;	 <!-cor de fundo da pagina-!>
+	font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,
+	sans-serif;
+	line-height:1.6;
+	
+	
+	
+}
+a:hover{
+	color:#CD7F32;
+	
+	
+}
+#custom-search-input {
+        margin:0;
+        margin-top: 10px;
+        padding: 0;
+    }
+ 
+    #custom-search-input .search-query {
+        padding-right: 3px;
+        padding-right: 4px \9;
+        padding-left: 3px;
+        padding-left: 4px \9;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+ 
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+ 
+    #custom-search-input button {
+        border: 0;
+        background: none;
+        /** belows styles are working good */
+        padding: 2px 5px;
+        margin-top: 2px;
+        position: relative;
+        left: -28px;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        color:#D9230F;
+    }
+#barralateral_dir{
+	float:right;
+	width:155px;
+	height:400px;
+	
+	
+
+
+
+}
+div.configmargem_borda{
+	background:#D98719;
+	color:#000000Y;
+	padding-right:10px;
+	padding-left:10px;
+	margin-bottom:10px;
+	margin-top:10px;
+	border-top:solid 2px;
+	border-right:solid 2px;
+	border-left:solid 2px;
+	border-bottom: solid 2px;
+}
+ul.none{
+	list-style-type: none;
+}
+#barralateral_esq{
+
+
+
+
+}
+#corpo{
+	}
+.place{<!Definindo espaço de cada campo!>
+background-color:#000080;
+border-color:#CCC #999 #999 #CCC;
+border:1px solid #CCC;
+margin-botton:5px;
+padding: 10px;
+}
+.place a{
+	color:#000;
+	font-weight:bold;
+	border-top:1px  #7E9F19;
+	border-bottom:1px  #7E9F19;
+	margin:0;
+}
+.place h2{
+	border-bottom:1px dashed  #7E9F19;
+	margin:0;
+}
+.place img{
+	width:200px;
+	height:200px;
+	border:1px solid #7E9F19;
+	float:left;
+	margin:10px 10px 0 0;
+	padding:2px;
+	
+}
+.compra{
+	margin: 5px 5px5px5px;
+	background-color:#CCCC
+	
+}
+.compra img{
+	float:center;
+	width:20px;
+	height:20px;
+	
+}
+.clear{
+	clear:both;
+}
+#Branco{
+	background-color:#C0D9D9;
+	
+}
+.Contato{<!-Definindo  espaço do campo-!>
+float:center;
+border-color:#CCC #999 #999 #CCC;
+border:1px solid #CCC;
+margin-botton:5px;
+padding:10px;
+}
+.Contato h2{
+	border-bottom:1px dashed;
+	margin 0;
+	
+	
+}
+.rodape{
+	float:left;
+	clear:both;
+	margin:auto;
+}
